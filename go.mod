@@ -1,6 +1,6 @@
 module btcgo
 
-go 1.23
+go 1.17
 
 require (
 	github.com/btcsuite/btcd v0.24.0 // indirect
